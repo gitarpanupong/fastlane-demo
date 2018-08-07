@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Wed Aug 08 01:19:39 CEST 2018
+1.base=C\:\\Projects\\Fastlane\\fastlane-demo\\ionic\\Screengrab\\platforms\\android\\CordovaLib\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+1.file=C\:\\Projects\\Fastlane\\fastlane-demo\\ionic\\Screengrab\\platforms\\android\\CordovaLib\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0\\classes.dex
+2.base=C\:\\Projects\\Fastlane\\fastlane-demo\\ionic\\Screengrab\\platforms\\android\\CordovaLib\\build\\intermediates\\res\\androidTest\\debug\\resources-debugAndroidTest.ap_
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Projects\\Fastlane\\fastlane-demo\\ionic\\Screengrab\\platforms\\android\\CordovaLib\\build\\intermediates\\res\\androidTest\\debug\\resources-debugAndroidTest.ap_\\resources.arsc
+count=3
+1.set=DEX
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Projects\\Fastlane\\fastlane-demo\\ionic\\Screengrab\\platforms\\android\\CordovaLib\\build\\intermediates\\res\\androidTest\\debug\\resources-debugAndroidTest.ap_
+0.file=C\:\\Projects\\Fastlane\\fastlane-demo\\ionic\\Screengrab\\platforms\\android\\CordovaLib\\build\\intermediates\\res\\androidTest\\debug\\resources-debugAndroidTest.ap_\\AndroidManifest.xml
