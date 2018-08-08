@@ -17,6 +17,7 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.BeforeClass;
+import org.junit.ClassRule;
 
 import static android.support.test.espresso.Espresso.onView;
 import static android.support.test.espresso.assertion.ViewAssertions.matches;
@@ -26,10 +27,13 @@ import static org.hamcrest.Matchers.allOf;
 
 import tools.fastlane.screengrab.Screengrab;
 import tools.fastlane.screengrab.UiAutomatorScreenshotStrategy;
+import tools.fastlane.screengrab.locale.LocaleTestRule;
 
 @LargeTest
 @RunWith(AndroidJUnit4.class)
 public class MainActivityTest {
+  @ClassRule
+  public static final LocaleTestRule localeTestRule = new LocaleTestRule();
 
   @Rule
   public ActivityTestRule<MainActivity> mActivityTestRule = new ActivityTestRule<>(MainActivity.class);
