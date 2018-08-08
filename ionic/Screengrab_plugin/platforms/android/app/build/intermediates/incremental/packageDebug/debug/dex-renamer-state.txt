@@ -1,4 +1,4 @@
-#Wed Aug 08 18:04:21 CEST 2018
+#Wed Aug 08 20:20:12 CEST 2018
 base.0=C\:\\Projects\\Fastlane\\fastlane-demo\\ionic\\Screengrab_plugin\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
 file.0=C\:\\Projects\\Fastlane\\fastlane-demo\\ionic\\Screengrab_plugin\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

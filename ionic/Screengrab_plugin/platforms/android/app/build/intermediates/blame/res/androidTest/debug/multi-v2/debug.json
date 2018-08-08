@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Projects\\Fastlane\\fastlane-demo\\ionic\\Screengrab_plugin\\platforms\\android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jan\\.gradle\\caches\\transforms-1\\files-1.1\\screengrab-1.0.0.aar\\4d807defa8fd1b62cbb212c9aa8c3d73\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    }
+                }
+            ]
+        }
+    ]
+}
