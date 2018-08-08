@@ -1,0 +1,7 @@
+{
+  "name": "Screengrab_plugin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
