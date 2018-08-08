@@ -31,7 +31,7 @@ import tools.fastlane.screengrab.locale.LocaleTestRule;
 
 @LargeTest
 @RunWith(AndroidJUnit4.class)
-public class MainActivityTest {
+public class ScreengrabTest {
   @ClassRule
   public static final LocaleTestRule localeTestRule = new LocaleTestRule();
 
