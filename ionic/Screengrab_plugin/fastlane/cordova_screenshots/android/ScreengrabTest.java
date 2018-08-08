@@ -1,4 +1,4 @@
-package io.ionic.starter; // TODO replace by supplied param
+package io.ionic.starter;
 
 
 import android.support.test.espresso.ViewInteraction;
