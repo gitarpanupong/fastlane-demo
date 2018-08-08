@@ -2,4 +2,4 @@
 #
 # Ensure this file is checked in to source control!
 
-gem 'fastlane-plugin-ionic_integration'
+gem 'fastlane-plugin-cordova_screenshots', path: "../../../../../Ionic + Fastlane/fastlane-plugin-cordova_screenshots"
